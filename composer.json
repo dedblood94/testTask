@@ -11,5 +11,12 @@
         "psr-4": {
             "App\\Tests\\": "tests/"
         }
+    },
+    "name": "jd/guzzle demo",
+    "require": {
+        "guzzle/guzzle": "~3.7",
+        "zendesk/zendesk_api_client_php": "^2.2",
+        "ext-json": "*"
     }
+
 }
